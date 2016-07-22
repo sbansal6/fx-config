@@ -1,6 +1,6 @@
 {
   "mongo": {
-    "url":"mongodb://local:feed@ds027519.mongolab.com:27519/jumpstart"
+    "url":"mongodb://dev:adtools@ds042379.mlab.com:42379/dev_adtools"
   },
   "filesystem" : {
     "root" : "/drive"
