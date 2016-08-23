@@ -1,11 +1,11 @@
-var env = process.env.FEEDEXCHANGE_ENV ;
+var env = process.env.NODE_ENV ;
 var config ;
 
 switch (env) {
 case 'PROD':
   config = require('./config/prod.json')
   break;
-case 'STAGE':
+case 'QA':
   config = require('./config/staging.json')
   break;
 default:
