@@ -1,6 +1,6 @@
 {
   "mongo": {
-    "url":"mongodb://dev:adtools@ds042379.mlab.com:42379/prod_adtools"
+    "url":"mongodb://prod:adtools@ds042379.mlab.com:42379/prod_adtools"
   },
   "filesystem" : {
     "root" : "/drive"
