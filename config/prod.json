@@ -4,5 +4,6 @@
   },
   "filesystem" : {
     "root" : "/drive"
-  }
+  },
+  "port" : 80
 }
